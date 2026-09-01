@@ -89,3 +89,16 @@ New examples are welcome. Keep them small, make them run end-to-end against the
 real API, and put anything surprising in a comment right where it bites.
 
 MIT licensed.
+
+---
+
+## Nightshift — real use case
+
+**[Nightshift](use-cases/nightshift/)** is an unattended clerk for software with no API: one-click AP close using Solari **browsers**, **sandboxes**, and **desktops** together.
+
+```bash
+cd use-cases/nightshift
+npm install && npm run dev
+```
+
+See [use-cases/nightshift/README.md](use-cases/nightshift/README.md) for architecture, Solari APIs used, and deployment.

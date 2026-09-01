@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 venv/
 screenshot.png
+use-cases/nightshift/.data/
+use-cases/nightshift/.next/

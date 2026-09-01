@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "invoiceId": "inv-001",
+      "vendor": "Northwind Supplies",
+      "portalAmount": 1240.5,
+      "booksAmount": 1240.5,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-002",
+      "vendor": "Blue Ridge Logistics",
+      "portalAmount": 3890,
+      "booksAmount": 3890,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-003",
+      "vendor": "Meridian IT",
+      "portalAmount": 875.25,
+      "booksAmount": 900,
+      "status": "mismatch"
+    },
+    {
+      "invoiceId": "inv-004",
+      "vendor": "Harbor Electric",
+      "portalAmount": 2100,
+      "booksAmount": 2100,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-005",
+      "vendor": "Cascade Cleaning",
+      "portalAmount": 640,
+      "booksAmount": 640,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-006",
+      "vendor": "Summit Security",
+      "portalAmount": 1525.75,
+      "booksAmount": 1525.75,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-007",
+      "vendor": "Prairie Foods",
+      "portalAmount": 432.18,
+      "booksAmount": 432.18,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-008",
+      "vendor": "Atlas Telecom",
+      "portalAmount": 2899.99,
+      "booksAmount": 2899.99,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-009",
+      "vendor": "Redwood Legal",
+      "portalAmount": 3200,
+      "booksAmount": 3200,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-010",
+      "vendor": "Keystone HVAC",
+      "portalAmount": 980,
+      "booksAmount": 980,
+      "status": "matched"
+    },
+    {
+      "invoiceId": "inv-011",
+      "vendor": "Silverline Marketing",
+      "portalAmount": 1750,
+      "booksAmount": 1700,
+      "status": "mismatch"
+    },
+    {
+      "invoiceId": "inv-012",
+      "vendor": "Orion Analytics",
+      "portalAmount": 499,
+      "booksAmount": 499,
+      "status": "matched"
+    }
+  ]
+}
